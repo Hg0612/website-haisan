@@ -96,7 +96,7 @@ a:focus { outline:none; }
 	padding:0px;
 	margin:0px 0px 20px 0px;
 	line-height:normal;
-	font-size:20px;
+	font-size:22px;
 	color:#000000;
 	border-bottom:2px solid #ddd;
 	padding-bottom:3px;
@@ -1220,6 +1220,7 @@ visibility:hidden;
 	padding:5px 0px 5px 12px;
 	color:#222;
 	display: block;
+	font-size: 15px;
 	background: transparent url(../image/bullet-dark.png) 0px 10px no-repeat;
 }
 .box-category ul li.double a {
